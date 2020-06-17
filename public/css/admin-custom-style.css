@@ -1,0 +1,58 @@
+.error{
+	font-size: 12px;
+    line-height: 14px;
+    color: #ff1313;	
+}
+.cp-field input{
+    border-radius: 4px;
+}
+.cp-field {
+	float: left;
+	width: 100%;
+	margin-top: 29.4px;
+	padding: 0 20px;
+}
+.cp-field h5 {
+	color: #000000;
+	font-size: 16px;
+	font-weight: 600;
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.cp-field h5 a {
+	color: #000;
+}
+.cpp-fiel {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.cp-field input {
+	height: 40px;
+	padding: 0 10px;
+}
+.cp-field input,
+.cp-field textarea {
+	width: 100%;
+	border: 1px solid #e5e5e5;
+}
+.cp-field textarea {
+	padding: 20px;
+	height: 115px;
+}
+.cpp-fiel i {
+	position: absolute;
+	top: 12px;
+	left: 15px;
+	color: #b2b2b2;
+	font-size: 16px;
+}
+.cp-field > p {
+	float: left;
+	width: 100%;
+	color: #686868;
+	font-size: 14px;
+	line-height: 24px;
+	margin-top: 5px;
+}
